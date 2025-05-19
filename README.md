@@ -33,7 +33,7 @@ This project is a responsive web application built using modern front-end techno
 
 ### User List
 
-* Displays a list of users fetched from a local `users.json` file (mock data).
+* Displays a list of users fetched from a local `mockUser.json` file (mock data).
 * For each user, the following information is displayed:
     * Name
     * Email
@@ -41,10 +41,10 @@ This project is a responsive web application built using modern front-end techno
     * Status (Active/Inactive)
 * Utilizes a reusable user card or table layout for presenting user data.
 
-### Bonus Task: User Details Modal
+### User Details Modal
 
 * Implements a popup/modal that appears when a user entry in the list is clicked.
-* The modal displays the full details of the selected user, sourced from the same `users.json` file.
+* The modal displays the full details of the selected user, sourced from the same `mockUser.json` file.
 * Features a smooth transition/animation for showing and hiding the modal.
 
 ## Functional Requirements
@@ -94,7 +94,7 @@ This project follows a component-based architecture, breaking down the UI into s
 
 ## Deployment
 
-The application has been deployed using [Vercel/Netlify/etc.]. You can view the live demo here: [Deployment Link]
+The application has been deployed using [Vercel]. You can view the live demo here: [[Deployment Link](https://admin-dashboard-ashy-five-18.vercel.app/)]
 
 ## Evaluation Criteria
 
